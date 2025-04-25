@@ -1,43 +1,51 @@
-# 👋 Assalamu Alaikum! I'm [M.ABDULLAH MOHAL]
+# 👋 Assalamu Alaikum! I'm Mohal-Dev
 
-I'm a self-motivated learner exploring the world of **Python** and **programming** one step at a time.  
-Currently focused on building a strong foundation in Python and mastering tools like **GitHub** to collaborate and grow.
+I'm a self-driven and curious learner currently exploring the world of **Python programming** and gradually moving toward **Artificial Intelligence**.  
+I’ve recently started my journey in coding, and I'm dedicated to learning consistently and building real-world skills step by step.
+
 
 
 ## 🚀 What I'm Working On
 
-- Learning Python with hands-on practice  .
-- Building mini projects to apply new concepts  .
-- Exploring open-source contributions in the near future  .
+- 🔹 Strengthening my Python foundations  
+- 🔹 Understanding AI concepts and their real-world applications  
+- 🔹 Practicing Git and GitHub for version control  
+- 🔹 Preparing to contribute to open-source in the future
+
 
 
 ## 🧠 Currently Learning
 
-- 🔹 Python (Core + Real-world examples) .
-- 🔹 Git & GitHub (Version Control) .
-- 🔹 Markdown for documentation .
-- 🔹 Best practices for clean code .
+- 🔹 Python (Core concepts & mini-projects)
+- 🔹 Markdown (for writing docs)
+- 🔹 Git & GitHub
+- 🔹 AI fundamentals
 
+---
 
-## 🎯 My Mindset
+## 🎯 My Vision
 
-> "Everyone starts somewhere. I’ve started strong — and I’m here to stay."
+> “I might be new, but I'm here for the long run.”
 
-I believe in consistency, community, and continuous learning. I'm not just learning to code — I'm learning to **think like a developer**.
+My goal is to dive deep into **Artificial Intelligence**, and eventually build tools that solve real-world problems.  
+Every day, I take small steps to become a better developer — and I love the process.
+
 
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourname@email.com *I will add in some hours*
-- 🌍 Language: Urdu | English
-- 🤝 Open to collaborations and networking
+- 📍 Location: Depalpur, Pakistan  
+- 📧 Email: *(Will be added soon by Mohal-Dev)*  
+- 🌐 Languages: Urdu | English
+
+---
+
+## 🔧 A Few Things About Me
+
+- 🔹 💡 I believe in learning by doing — breaking things, fixing them, and growing through it.
+- 🔹 🧱 I’m currently building small Python projects to improve my skills.
+- 🔹 🤝 I'm always open to learning from others and sharing what I learn.
 
 
-## 📌 A Little More About Me
 
-- 💡 I prefer to *learn by doing* — code, break, fix, repeat.
-- 🕒 I dedicate regular time to learning and growing every day.
-- 🧩 I’m building my first open-source project soon — stay tuned!
-
-
-Thanks for visiting! Drop a ⭐️ if you find my work interesting.
+Thanks for stopping by! Feel free to explore my repositories and drop a ⭐️ if you like anything.
